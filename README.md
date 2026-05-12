@@ -31,3 +31,4 @@ where K_t is a capital-state variable and x_t is a vector of accumulation-releva
   author={Song, Zichen},
   year={2026}
 }
+```
